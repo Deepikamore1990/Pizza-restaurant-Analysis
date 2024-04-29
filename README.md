@@ -1,6 +1,5 @@
-# Pizza-restaurant-Analysis
+# Pizza-Sales-Analysis
 
-# Pizza-restaurant-analysis
 Pizza restaurant analysis using Python + SQL + Power BI + Power Query
 
 # Table of Contents
@@ -19,7 +18,7 @@ Pizza restaurant analysis using Python + SQL + Power BI + Power Query
 7.**Usage**
 
 # Intoduction
-The project aims to analyze the 'Pizza restaurant' dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards.
+The project aims to analyze the 'Pizza Sales' dataset to derive insights and facilitate data-driven decision-making for anyone interested in data analysis and dashboards.
 
 # Overview Dashboard
 
@@ -63,7 +62,7 @@ I utilized Python for Exploratory Data Analysis (EDA), data cleansing, and profi
 
 # SQL
 **SQl queries**
-the sql queris contains a 11 type of queries:
+the sql queris contains a 10 type of queries:
 1. KPI's
 2. Daily Trend for Total Orders
 3. Monthly Trend for Orders
